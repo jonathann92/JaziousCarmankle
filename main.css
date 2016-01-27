@@ -10,7 +10,7 @@
   display: inline;
 }
 
-.jumbotron {
+.jumboo {
   background-image:url('http://static.panoramio.com/photos/large/68553634.jpg');
   height: 500px;
   background-repeat: no-repeat;
@@ -22,12 +22,19 @@
   top:100px;
 }
 
-.jumbotron h1 {
+.jumbotron h1{
   color: #fff;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
+
+.jumbotron {
+    height: 500px;
+    background-color: rgb(1,39,219);
+}
+
+.text-center a{ font-size: 48px; color: #fff;}
 
 .jumbotron p {
   font-size: 20px;
